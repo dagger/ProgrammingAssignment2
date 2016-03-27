@@ -1,4 +1,4 @@
-## Functions fot caching the expensive operation of solving (inverting) a 
+## Functions for caching the expensive operation of solving (inverting) a 
 ## matrix
 
 ## Returns a list of which members are used to associate a matrix with its
